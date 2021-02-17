@@ -1,0 +1,42 @@
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\appsettings.json
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.exe
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.deps.json
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.runtimeconfig.json
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.runtimeconfig.dev.json
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.dll
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\ref\Class revision.dll
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.pdb
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.Views.dll
+C:\Users\aavas\source\repos\Class revision\Class revision\bin\Debug\net5.0\Class revision.Views.pdb
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.csprojAssemblyReference.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.AssemblyInfoInputs.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.AssemblyInfo.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.csproj.CoreCompileInputs.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorAssemblyInfo.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorAssemblyInfo.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\staticwebassets\Class revision.StaticWebAssets.Manifest.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\staticwebassets\Class revision.StaticWebAssets.xml
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\scopedcss\bundle\Class revision.styles.css
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.TagHelpers.input.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.TagHelpers.output.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorCoreGenerate.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\College\Create.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\College\Index.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorTargetAssemblyInfo.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorTargetAssemblyInfo.cs
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.Views.pdb
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.dll
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\ref\Class revision.dll
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.pdb
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.genruntimeconfig.cache
+C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.csproj.CopyComplete

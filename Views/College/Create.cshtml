@@ -1,0 +1,12 @@
+﻿@model CollegeModel
+
+<form asp-action="Create" asp-controller="College" method="post">
+    Name: <input asp-for="name" />
+
+    Address: <input asp-for="address" />
+
+    Email: <input asp-for="email" />
+    <input type="submit" value="Create"/>
+</form>
+
+
