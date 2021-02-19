@@ -40,3 +40,87 @@ C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\ref\C
 C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.pdb
 C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.genruntimeconfig.cache
 C:\Users\aavas\source\repos\Class revision\Class revision\obj\Debug\net5.0\Class revision.csproj.CopyComplete
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\appsettings.Development.json
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\appsettings.json
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.exe
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.deps.json
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.runtimeconfig.json
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.runtimeconfig.dev.json
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\ref\Class revision.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.pdb
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.Views.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Class revision.Views.pdb
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Humanizer.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\ClassRevision.Business.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\ClassRevison.data.dll
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\ClassRevison.data.pdb
+D:\VisulStudio\Class revision\Class revision\bin\Debug\net5.0\ClassRevision.Business.pdb
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.csprojAssemblyReference.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.AssemblyInfoInputs.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.AssemblyInfo.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.csproj.CoreCompileInputs.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.MvcApplicationPartsAssemblyInfo.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorAssemblyInfo.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorAssemblyInfo.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\staticwebassets\Class revision.StaticWebAssets.Manifest.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\staticwebassets\Class revision.StaticWebAssets.xml
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\scopedcss\bundle\Class revision.styles.css
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.TagHelpers.input.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.TagHelpers.output.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorCoreGenerate.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\College\Create.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\College\Index.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorTargetAssemblyInfo.cache
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.RazorTargetAssemblyInfo.cs
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.Views.pdb
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.csproj.CopyComplete
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.dll
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\ref\Class revision.dll
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.pdb
+D:\VisulStudio\Class revision\Class revision\obj\Debug\net5.0\Class revision.genruntimeconfig.cache

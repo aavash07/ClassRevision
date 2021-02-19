@@ -1,0 +1,9 @@
+D:\VisulStudio\Class revision\ClassRevision.Business\bin\Debug\netcoreapp3.1\ClassRevision.Business.deps.json
+D:\VisulStudio\Class revision\ClassRevision.Business\bin\Debug\netcoreapp3.1\ClassRevision.Business.dll
+D:\VisulStudio\Class revision\ClassRevision.Business\bin\Debug\netcoreapp3.1\ClassRevision.Business.pdb
+D:\VisulStudio\Class revision\ClassRevision.Business\obj\Debug\netcoreapp3.1\ClassRevision.Business.csprojAssemblyReference.cache
+D:\VisulStudio\Class revision\ClassRevision.Business\obj\Debug\netcoreapp3.1\ClassRevision.Business.AssemblyInfoInputs.cache
+D:\VisulStudio\Class revision\ClassRevision.Business\obj\Debug\netcoreapp3.1\ClassRevision.Business.AssemblyInfo.cs
+D:\VisulStudio\Class revision\ClassRevision.Business\obj\Debug\netcoreapp3.1\ClassRevision.Business.csproj.CoreCompileInputs.cache
+D:\VisulStudio\Class revision\ClassRevision.Business\obj\Debug\netcoreapp3.1\ClassRevision.Business.dll
+D:\VisulStudio\Class revision\ClassRevision.Business\obj\Debug\netcoreapp3.1\ClassRevision.Business.pdb

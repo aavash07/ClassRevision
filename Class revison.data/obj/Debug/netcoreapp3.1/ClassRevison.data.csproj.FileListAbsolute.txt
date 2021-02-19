@@ -1,0 +1,12 @@
+D:\VisulStudio\Class revision\Class revison.data\bin\Debug\netcoreapp3.1\ClassRevison.data.deps.json
+D:\VisulStudio\Class revision\Class revison.data\bin\Debug\netcoreapp3.1\ClassRevison.data.runtimeconfig.json
+D:\VisulStudio\Class revision\Class revison.data\bin\Debug\netcoreapp3.1\ClassRevison.data.runtimeconfig.dev.json
+D:\VisulStudio\Class revision\Class revison.data\bin\Debug\netcoreapp3.1\ClassRevison.data.dll
+D:\VisulStudio\Class revision\Class revison.data\bin\Debug\netcoreapp3.1\ClassRevison.data.pdb
+D:\VisulStudio\Class revision\Class revison.data\obj\Debug\netcoreapp3.1\ClassRevison.data.csprojAssemblyReference.cache
+D:\VisulStudio\Class revision\Class revison.data\obj\Debug\netcoreapp3.1\ClassRevison.data.AssemblyInfoInputs.cache
+D:\VisulStudio\Class revision\Class revison.data\obj\Debug\netcoreapp3.1\ClassRevison.data.AssemblyInfo.cs
+D:\VisulStudio\Class revision\Class revison.data\obj\Debug\netcoreapp3.1\ClassRevison.data.csproj.CoreCompileInputs.cache
+D:\VisulStudio\Class revision\Class revison.data\obj\Debug\netcoreapp3.1\ClassRevison.data.dll
+D:\VisulStudio\Class revision\Class revison.data\obj\Debug\netcoreapp3.1\ClassRevison.data.pdb
+D:\VisulStudio\Class revision\Class revison.data\obj\Debug\netcoreapp3.1\ClassRevison.data.genruntimeconfig.cache
